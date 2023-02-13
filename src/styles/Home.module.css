@@ -1,5 +1,10 @@
+.gradient {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
 .container {
   text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .logo {
